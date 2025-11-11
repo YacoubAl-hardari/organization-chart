@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "npm run build",
+        "build": "npm run build:css && npm run build:js",
+        "build:css": "postcss resources/css/organization-chart.css -o resources/dist/organization-chart.css",
+        "build:js": "node build.js"
+    },
+    "devDependencies": {
+        "cssnano": "^6.0.1",
+        "esbuild": "^0.19.0",
+        "postcss": "^8.4.27",
+        "postcss-cli": "^10.1.0",
+        "postcss-nesting": "^12.0.0"
+    }
+}
+

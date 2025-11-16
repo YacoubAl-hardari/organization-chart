@@ -1,6 +1,5 @@
 # Filament Organization Chart Widget
-![New Website Blue Mockup Instagram - Laptop](https://github.com/user-attachments/assets/6ef576e9-31f1-4878-982d-3539a4f634a1)
-
+![organization-chart](https://github.com/user-attachments/assets/dd1f9ccf-0f50-468f-87fb-8cda2f0bfcfc)
 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/yacoubalhaidari/organization-chart.svg?style=flat-square)](https://packagist.org/packages/yacoubalhaidari/organization-chart)

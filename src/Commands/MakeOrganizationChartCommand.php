@@ -64,7 +64,7 @@ use YacoubAlhaidari\OrganizationChart\OrganizationChartBuilder;
 
 class {$className} extends OrganizationChartWidget
 {
-    protected string \$view = 'organization-chart::widget-without-description';
+    protected static string \$view = 'organization-chart::widget-without-description';
     
     public function mount(): void
     {

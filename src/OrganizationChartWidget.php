@@ -6,7 +6,7 @@ use Filament\Widgets\Widget;
 
 class OrganizationChartWidget extends Widget
 {
-    protected string $view = 'organization-chart::widget';
+    protected static string $view = 'organization-chart::widget';
     protected int | string | array $columnSpan = 'full';
     protected ?OrganizationChartBuilder $builder = null;
     protected array $chartData = [];

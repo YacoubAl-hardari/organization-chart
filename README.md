@@ -1,6 +1,6 @@
 # Filament Organization Chart Widget
-![organization-chart](https://github.com/user-attachments/assets/dd1f9ccf-0f50-468f-87fb-8cda2f0bfcfc)
 
+![organization-chart](https://github.com/user-attachments/assets/dd1f9ccf-0f50-468f-87fb-8cda2f0bfcfc)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/yacoubalhaidari/organization-chart.svg?style=flat-square)](https://packagist.org/packages/yacoubalhaidari/organization-chart)
 [![Total Downloads](https://img.shields.io/packagist/dt/yacoubalhaidari/organization-chart.svg?style=flat-square)](https://packagist.org/packages/yacoubalhaidari/organization-chart)
@@ -11,6 +11,7 @@ A powerful and elegant Filament widget plugin for creating interactive organizat
 ![Organization Chart Demo](https://via.placeholder.com/800x400/1e293b/ffffff?text=Interactive+Organization+Chart)
 
 ## ✨ Features
+
 - 🎨 **Beautiful & Interactive** - Smooth, responsive charts with hover effects and animations
 - 🏗️ **Fluent Builder API** - Intuitive, chainable methods for building complex hierarchies
 - 👤 **Employee Profiles** - Support for profile images, titles, and custom styling
@@ -683,7 +684,7 @@ This package is open-sourced software licensed under the [MIT License](LICENSE).
 ## 🔗 Links
 
 - [Packagist](https://packagist.org/packages/yacoubalhaidari/organization-chart)
-- [GitHub Repository](https://github.com/yacoubalhaidari/organization-chart)
+- [GitHub Repository](https://github.com/YacoubAl-hardari/organization-chart/)
 - [Filament Documentation](https://filamentphp.com/docs)
 - [Highcharts Org Chart Docs](https://www.highcharts.com/docs/chart-and-series-types/organization-chart)
 
